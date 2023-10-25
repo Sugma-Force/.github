@@ -21,6 +21,7 @@ Undeterred by the challenges we faced, Sigma Force continued to dismantle RogueM
   - @marcus-alicia: Team Lead & planning
   - @warnerfuckers: Development
   - @Clwning: Development
+  - @MrGambet: Help
   - @Xxxosmo: Ideas
 - Off-site:
   - AutisticGhost: Monitoring Infrastructure
