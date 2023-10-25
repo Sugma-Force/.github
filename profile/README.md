@@ -20,6 +20,7 @@ Undeterred by the challenges we faced, Sigma Force continued to dismantle RogueM
 - On github:
   - @marcus-alicia: Team Lead & planning
   - @warnerfuckers: Development
+  - @Clwning: Development
   - @Xxxosmo: Ideas
 - Off-site:
   - AutisticGhost: Monitoring Infrastructure
