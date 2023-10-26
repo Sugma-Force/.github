@@ -1,7 +1,7 @@
 # Sigma Force
 
 <details>
-  <summary>ChatGPT'd Intro:</summary>
+  <summary>ChatGPT's Intro:</summary>
 Once upon a time, in the vast digital realm, there existed a notorious hacker group known as Sigma Force. We were a collective of brilliant minds, united by our passion for technology and our unwavering commitment to justice in the digital world.
 
 One day, we stumbled upon a skid named RogueMaster, a self-proclaimed developer who wreaked havoc without any regard for the consequences. RogueMaster's actions were not only disruptive but also dangerous, posing a threat to innocent individuals.
